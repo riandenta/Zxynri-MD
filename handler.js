@@ -709,7 +709,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.sendButtonImg(id, pp, text, "ᯤ by creator bot", "AWOKAWOAK", "bebanjoin", null)
+                                this.sendButtonImg(id, pp, text, "ᯤ by DaniBotz", "AWOKAWOAK", "bebanjoin", null)
                                 }
                     }
                 }
@@ -808,16 +808,16 @@ global.dfail = (type, m, conn) => {
  let unreg = {
   unreg: `
 ┏━━━〔 ıll 𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 llı 〕━━❑
-⬡ Hallo mypren👋, @${m.sender.split`@`[0]}
-⬡ Sebelum melihat fitur bot, lebih baik register dulu
-⬡ Kalau tidak kelihatan button nya, contohnya dibawah!
+⬡ Hallo User DaniBotz👋, @${m.sender.split`@`[0]}
+⬡ Kamu Belum Terdaftar Di Database Bot
+⬡ Silahkan Verify Dlu Sebelum Menggunakan Bot
 ┗━━━━━━━━━━━━━━━━━━❑
-┏━━〔 ıll CONTOH llı 〕━❑
-⬡ #daftar namamu.umurmu
+┏━━〔 ıll CONTOH VERIFY llı 〕━❑
+⬡ #daftar Dani.17
 ⬡ #daftar @${m.sender.split`@`[0]}.18
 ┗━━━━━━━━━━❑ `
   }[type]
- if (unreg) return conn.sendBut(m.chat, unreg, '❑ Silahkan Klik reg dibawah ini ❑', 'Register', `.daftar @${m.sender.split`@`[0]}.18`, m)
+ if (unreg) return conn.sendBut(m.chat, unreg, '❑ Silahkan Klik reg dibawah ini ❑', 'Register','Verify`.daftar @${m.sender.split`@`[0]}.18`, m)
  }
 
 let fs = require('fs')
