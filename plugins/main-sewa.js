@@ -5,7 +5,7 @@ let dana = global.dana
 let pulsa = global.pulsa
 let gopay = global.gopay
 let numberowner = global.numberowner
-let anu = `Hallo mypren 👋
+let anu = `Hallo User DaniBotz 👋
 ━━━〔 ıll *Sewa Bot* llı 〕━━ꕥ
 ━━━━━━━━━━━━━━━━━━━━
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
@@ -34,8 +34,8 @@ wa.me/${numberowner} (Owner)
 *Follow Instagram ku juga kak😼*`
   conn.send3ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Owner', '.owner', 'Menu', '.menu', m) 
 }
-handler.help = ['sewazifa']
+handler.help = ['sewadani']
 handler.tags = ['info']
-handler.command = /^(zifasewa|sewazifa|sewa|sewabot)$/i
+handler.command = /^(danisewa|sewadani|sewa|sewabot)$/i
 
 module.exports = handler
