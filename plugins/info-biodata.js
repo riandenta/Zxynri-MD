@@ -19,7 +19,7 @@ let krizyn = `
            hydratedFooterText: 'salam kenal bang👋',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'GroupBot 🐈',
+               displayText: 'GroupDaniBotz 🐈',
                url: gc
              }
 
@@ -34,7 +34,7 @@ let krizyn = `
                {
              quickReplyButton: {
                displayText: 'Sewa Bot',
-               id: '.sewazifa',
+               id: '.sewadani',
              }
              
            },
@@ -47,7 +47,7 @@ let krizyn = `
              },
                {
              quickReplyButton: {
-               displayText: 'Donasi bang',
+               displayText: 'Donasi lh Njing:)',
                id: '.donasi',
              }
 
