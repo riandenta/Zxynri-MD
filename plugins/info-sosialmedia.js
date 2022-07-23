@@ -38,7 +38,7 @@ urlButton: {
            },
                {
              quickReplyButton: {
-               displayText: 'STORE',
+               displayText: 'STORE DANIBOTZ',
                id: '.store',
              }
              
