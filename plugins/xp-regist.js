@@ -21,7 +21,7 @@ let handler = async function (m, { text, usedPrefix }) {
   m.reply(`
 ╭─❒ 〔 DAFTAR BERHASIL 〕
 ❍ Terimakasih anda sudah terdaftar
-❍ Di database kami
+❍ Di database Botz
 ❍ Jika anda menemukan bug atau error
 ❍ Maaf bot ini masih dalam  tahap pengembangan
 ╭─────────────────╮
@@ -32,8 +32,8 @@ let handler = async function (m, { text, usedPrefix }) {
 Gunakan Bot Secukupnya
 Dont Call/Vc Bot 
 `.trim())
-u = '╭─❒ 〔 HALLO NEW PREN 〕\n\n❍ Jika mau ke Pengaturan Bot Klik Tombol "Rules Bot"\n❍ Jika menuju menu Klik tombol "Tampilan Menu"\n❍ Jika mau cari owner Klik tombol "Owner"\n\nPatuhi Rules nya,demi kenyamanan kita bersama.'
-await conn.send3But(m.chat, u, wm, 'Rules', '#snk', 'Command', '#zifa', 'Owner', '#owner',  m)
+u = '╭─❒ 〔 HALLO USER DANIBOTZ 〕\n\n❍ Harap Baca Rules Dan Patuhi ya Ka:)\n❍ Click *Menu* Untuk Melihat Semua Fitur Bot\n❍ Jika Ad Pertanyaan Seputar Bot Click "Owner"\n\nPatuhi Rules nya,demi kenyamanan kita bersama.'
+await conn.send3But(m.chat, u, wm, 'Syarat Dan Ketentuan', '#snk', 'Menampilkan Menu Bot', '#zifa', 'Nomer Owner DaniBotz', '#owner',  m)
 }
 handler.help = ['daftar', 'reg', 'register'].map(v => v + ' <nama>.<umur>')
 handler.tags = ['exp']
