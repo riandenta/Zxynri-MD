@@ -2,11 +2,11 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-╭─────[ *RULES* ]─────✧
+╭─────[ *RULES DANIBOTZ* ]─────✧
 ┴
-│¹ Dilarang Hina Bot / Owner
+│¹ Dilarang Hina Bot / DaniOfficial
 │² Dilarang Spam Command
-│³ Dilarang Kirim Virtex ke bot
+│³ Dilarang Kirim Virtex ke DaniBotz
 │⁴ Dilarang Spam Menu Ga Jelas
 │⁵ Dilarang Telp / Vc
 │⁶ Dilarang Culik Bot
@@ -44,7 +44,7 @@ let krizyn = `
                 {
                urlButton: {
                displayText: '🔮Myweb🔮',
-               url: 'https://istagram.com/zalfapontinanak'
+               url: 'https://istagram.com/danibotz_official'
              }
 
            },
