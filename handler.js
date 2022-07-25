@@ -779,10 +779,10 @@ global.dfail = (type, m, conn) => {
   let name = conn.getName(m.sender)
   let msg = {
     rowner: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
-⬡ Perintah ini hanya untuk developer bot
+⬡ Perintah ini hanya untuk DaniOfficial
 ╰─────────────────֍`,
     owner: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
-⬡ Perintah ini hanya untuk owner bot
+⬡ Perintah ini hanya untuk DaniOfficial
 ╰─────────────────֍`,
     mods: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
 ⬡ Perintah ini hanya untuk moderator bot
@@ -800,7 +800,7 @@ global.dfail = (type, m, conn) => {
 ⬡ Fitur ini hanya tersedia untuk admin grup!!
 ╰─────────────────֍`,
     botAdmin: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
-⬡ Fitur ini tidak dapat work, bot tidak menjadi admin
+⬡ Fitur ini tidak dapat work, DaniBotz tidak menjadi admin
 ╰─────────────────֍`,
     restrict: 'Fitur ini di *disable*!',
     }[type]
@@ -808,16 +808,16 @@ global.dfail = (type, m, conn) => {
  let unreg = {
   unreg: `
 ┏━━━〔 ıll 𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 llı 〕━━❑
-⬡ Hallo mypren👋, @${m.sender.split`@`[0]}
-⬡ Sebelum melihat fitur bot, lebih baik register dulu
-⬡ Kalau tidak kelihatan button nya, contohnya dibawah!
+⬡ Hallo User DaniBotz👋, @${m.sender.split`@`[0]}
+⬡ Kamu Belum Terdaftar Didalam Database Bot🗂️
+⬡ Harap verify Dulu Sebelum Menggunakan Bot📸
 ┗━━━━━━━━━━━━━━━━━━❑
-┏━━〔 ıll CONTOH llı 〕━❑
-⬡ #daftar namamu.umurmu
-⬡ #daftar @${m.sender.split`@`[0]}.18
+┏━━〔 ıll CONTOH VERIFY llı 〕━❑
+⬡ #daftar Dani.17
+⬡ #daftar @${m.sender.split`@`[0]}.17
 ┗━━━━━━━━━━❑ `
   }[type]
- if (unreg) return conn.sendBut(m.chat, unreg, '❑ Silahkan Klik reg dibawah ini ❑', 'Register', `.daftar @${m.sender.split`@`[0]}.18`, m)
+ if (unreg) return conn.sendBut(m.chat, unreg,  '❑ Silahkan Klik Salah 1 dibawah ini ❑', 'Register','Verify' `.daftar @${m.sender.split`@`[0]}.18`, m)
  }
 
 let fs = require('fs')
