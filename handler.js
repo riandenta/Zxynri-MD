@@ -817,7 +817,7 @@ global.dfail = (type, m, conn) => {
 ⬡ #daftar @${m.sender.split`@`[0]}.17
 ┗━━━━━━━━━━❑ `
   }[type]
- if (unreg) return conn.sendBut(m.chat, unreg,  '❑ Silahkan Klik Salah 1 dibawah ini ❑', 'Register','Verify' `.daftar @${m.sender.split`@`[0]}.17`, m)
+ if (unreg) return conn.sendBut(m.chat, unreg,  '❑ Silahkan Klik Salah 1 dibawah ini ❑', 'Register', 'Verify' `.daftar @${m.sender.split`@`[0]}.17`, m)
  }
 
 let fs = require('fs')
