@@ -17,7 +17,7 @@
 [![Krizyn](https://img.shields.io/badge/Krizyn-25D366?style=for-the-badge&logo=Krizyn&logoColor=white)](https://wa.me/62895327934887)
 [![Rozi](https://img.shields.io/badge/Rozi-25D366?style=for-the-badge&logo=Rozi&logoColor=white)](https://wa.me/6285828764046)
 [![Dani](https://img.shields.io/badge/Dani-25D366?style=for-the-badge&logo=Dani&logoColor=white)]
-
+(https://wa.me/6281251549899)
 # Ambil seesion.data.json Di sini
 
 [![Session.data.json](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HEROKUAKUN/Qr-2#README.md)
