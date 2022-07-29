@@ -42,8 +42,8 @@
 ```
 
 ## Stats
-![Botynyakamu GitHub stats](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&theme=radical)
-<p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botynyakamu&theme=radical&layout=compact"></a></p>
+![YTDANIBOTZ GitHub stats](https://github-readme-stats.vercel.app/api?username=YTDANIBOTZ&show_icons=true&theme=radical)
+<p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTDANIBOTZ&theme=radical&layout=compact"></a></p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ## ```Heroku Buildpack```
@@ -58,18 +58,18 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Botynyakamu)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=YTDANIBOTZ)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Botynyakamu?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fpontianak)
+![Metrics](https://metrics.lecoq.io/YTDANIBOTZ?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fpontianak)
 
 </details> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Botynyakamu)
+![](https://visitor-badge.glitch.me/badge?page_id=YTDANIBOTZ)
 
 ---
 
