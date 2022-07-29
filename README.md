@@ -6,7 +6,7 @@
 <div align="center">
 
 ---
-## Hello, Im [Zxynri-MD](https://instagram.com/zalfapontianak?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello, Im [Zxynri-MD](https://instagram.com/dani_official?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hai+teman!.;My+name+is+Zxynri-MD;Sc+ini+Recode.;jangan+bully+saia%2C++Bwang+%3A).;jangan+lupa+kasih+start+🌟" alt="budii">
@@ -16,6 +16,7 @@
 [![Hyzer](https://img.shields.io/badge/Hyzer-25D366?style=for-the-badge&logo=Hyzer&logoColor=white)](https://wa.me/6287892711054)
 [![Krizyn](https://img.shields.io/badge/Krizyn-25D366?style=for-the-badge&logo=Krizyn&logoColor=white)](https://wa.me/62895327934887)
 [![Rozi](https://img.shields.io/badge/Rozi-25D366?style=for-the-badge&logo=Rozi&logoColor=white)](https://wa.me/6285828764046)
+[![Dani](https://img.shields.io/badge/Dani-25D366?style=for-the-badge&logo=Dani&logoColor=white)]
 
 # Ambil seesion.data.json Di sini
 
@@ -36,6 +37,7 @@
 ✓ Riel
 ✓ jaka
 ✓ kanna
+✓ Dani
 ```
 
 ## Stats
